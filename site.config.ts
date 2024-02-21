@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
+  name: 'yeji site',
   domain: 'blog.2skydev.com',
-  author: '2skydev',
+  author: 'yezzi',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'yeji blog - design site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
